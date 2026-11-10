@@ -1,0 +1,5 @@
+name: VanishTabFix
+version: 1.1
+main: me.fix.vanishtab.VanishTabFix
+api-version: "1.21"
+depend: [ProtocolLib, UltimateDonutSmp]
